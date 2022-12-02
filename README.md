@@ -7,3 +7,6 @@ DBMS:postgres:10
 データベース：worldcup2014  
 ユーザー：worldcup2014  
 パスワード：worldcup2014  
+
+# 利用方法  
+docker-compose up -d
